@@ -2,7 +2,7 @@
 
 A Python GUI application that scrapes product data, analyzes trends, and visualizes results.
 
-![GUI Screenshot](screenshots/app_screenshot.png)
+![GUI Screenshot](images/screenshot.png)
 
 ## Features
 - Web scraping with BeautifulSoup
