@@ -2,7 +2,7 @@
 
 A Python GUI application that scrapes product data, analyzes trends, and visualizes results.
 
-![My Image](https://raw.githubusercontent.com/your-username/your-repo/main/image.png?v=2)
+![My Image](https://raw.githubusercontent.com/nextcodeworks/ecommerce-price-analyzer/main/image.png?v=2)
 
 
 ## Features
