@@ -2,7 +2,8 @@
 
 A Python GUI application that scrapes product data, analyzes trends, and visualizes results.
 
-<img src="images/price-chart-generator.png">
+![My Image](https://raw.githubusercontent.com/your-username/your-repo/main/image.png?v=2)
+
 
 ## Features
 - Web scraping with BeautifulSoup
